@@ -1,8 +1,11 @@
-AUTUNGIN :- * scrapy
-            * Talend
-            * MYSql
+PROJECT RELATED SKILLS:
+  * AUTONGIN :- * scrapy(automotive data)
+                * Talend
+                * MYSql
 
-Annotation task did for AGATHI
+  * Annotation task (AGDHI)
+
+EXTRA SKILL SET:
 
 Tableau Software
 
@@ -14,7 +17,7 @@ Python
 
 web scraper tool(chrome extension)
 
-CERTIFICATES
+CERTIFICATIONS:
 
 *MYSql
 
