@@ -9,6 +9,10 @@ EXTRA SKILL SET:
 
 Tableau Software
 
+MACHINE LEARNING
+
+DATA ANALYSIS
+
 Seaborn
 
 Matplotlib
