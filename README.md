@@ -28,3 +28,5 @@ CERTIFICATIONS:
 *MongoDB 
 
 *Neo4j (pursuing certificate)
+
+*Python
