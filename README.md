@@ -14,6 +14,10 @@ Python
 
 web scraper tool(chrome extension)
 
-MongoDB (pursuing certificate)
+CERTIFICATES
 
-Neo4j (pursuing certificate)
+*MYSql
+
+*MongoDB 
+
+*Neo4j (pursuing certificate)
